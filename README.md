@@ -996,6 +996,9 @@ done
 $ chmod 755 forin1.sh
 
 ## OUTPUT
+
+<img width="318" height="143" alt="image" src="https://github.com/user-attachments/assets/5d3cbef8-3f8f-4bfb-bdca-6b9a5a615318" />
+
 cat forinfile.sh 
 ```bash
 #!/bin/bash
@@ -1019,6 +1022,10 @@ Khammam
 ## OUTPUT
 
 
+<img width="310" height="208" alt="image" src="https://github.com/user-attachments/assets/839b4a22-6903-4482-981d-8c2e67ddd449" />
+
+
+
 cat forctype.sh 
 ```bash
 #!/bin/bash
@@ -1032,6 +1039,10 @@ $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
 
+
+<img width="551" height="141" alt="image" src="https://github.com/user-attachments/assets/54a57222-6117-4c76-b639-0233390474ef" />
+
+
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -1044,6 +1055,10 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+
+
+<img width="552" height="245" alt="image" src="https://github.com/user-attachments/assets/89c5baf7-8d45-4eac-8d91-097643297f40" />
+
 
 cat fornested1.sh 
 ```bash
@@ -1063,6 +1078,9 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
+ <img width="350" height="206" alt="image" src="https://github.com/user-attachments/assets/3b77c5a0-4ebb-41d4-bcf9-fdfc7ab7affb" />
+
+
  
 cat forbreak.sh 
 ```bash
@@ -1079,6 +1097,12 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+
+
+<img width="296" height="253" alt="image" src="https://github.com/user-attachments/assets/11339b68-0485-428e-bf46-c94c53e699a9" />
+
+
+
 
 $ chmod 755 forbreak.sh
  
